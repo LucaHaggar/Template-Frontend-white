@@ -1,0 +1,396 @@
+* {
+  font-family: "Electrolize", sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+/* start header custom */
+header {
+  background-image: linear-gradient(
+      rgba(8, 48, 229, 40%),
+      rgba(13, 53, 237, 0.4)
+    ),
+    url(./media/header.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* end header cutstom */
+
+/* start custom nav */
+.custom-nav {
+  background-color: rgb(6, 57, 108);
+}
+
+.border-custom-nav {
+  border-left: 2px solid white;
+  height: 20px;
+  margin-top: 10px;
+}
+
+/* end custom nav */
+
+/* start custom icone megalorem */
+.color-custom {
+  color: rgb(6, 57, 108);
+}
+/* end custom icone megalorem */
+.custom-color {
+  color: rgb(6, 57, 108);
+}
+
+/* stard custom section card */
+
+.power-lorem-custom {
+  background-image: linear-gradient(
+      rgba(9, 7, 226, 30%),
+      rgba(56, 87, 141, 39%),
+      rgba(2, 30, 110, 39%)
+    ),
+    url(./media/power-plant-4712830_1280.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 75vh;
+}
+
+.img-card-blue {
+  height: 400px;
+  width: 500px;
+}
+
+.card-blue {
+  background-color: rgb(6, 57, 108);
+  height: 80vh;
+  border: 2px solid white;
+  top: -51px;
+  left: 100px;
+}
+
+.card-white {
+  background-color: white;
+  height: 80vh;
+  z-index: 1;
+  right: 80px;
+}
+
+.pannelli-cust {
+  height: 100vh;
+}
+
+.cust-stuff-card {
+  height: 100vh;
+}
+.color-cust-h4 {
+  color: rgb(6, 57, 108);
+}
+
+/* end custom section card */
+
+/* start section custom  description */
+
+.buttom-custom {
+  border-radius: 0%;
+  background-color: rgb(6, 57, 108);
+  width: 150px;
+}
+.h2 {
+  color: rgb(6, 57, 108);
+}
+
+.cust-color-h2 {
+  color: rgb(6, 57, 108);
+}
+
+.row-custom {
+  border-bottom: 8px solid rgb(6, 57, 108);
+  width: 140px;
+  top: 20px;
+  position: relative;
+}
+
+.lorem {
+  position: absolute;
+}
+
+.custom1 {
+  width: 280px;
+}
+
+.custom2 {
+  width: 380px;
+}
+/* end section custom description */
+
+/* start custom section mappa */
+.cust-color {
+  color: rgb(6, 57, 108);
+}
+/* end custom section mappa */
+
+/* start section città */
+
+.div2 {
+  height: 150px;
+  width: 200px;
+  background: linear-gradient(
+    88deg,
+    #6289c1,
+    rgb(26 21 112 / 10%),
+    rgb(178 187 235 / 0%)
+  );
+  top: -15px;
+  left: 100px;
+  padding-top: 30px;
+  padding-left: 40px;
+}
+
+/* start custom some stuff */
+
+.some-stuff-custom {
+  height: 50vh;
+  background-color: rgb(6, 57, 108);
+}
+
+.some-custom {
+  padding-top: 150px;
+}
+
+.div-some-1 {
+  background-image: linear-gradient(
+      rgba(9, 7, 226, 30%),
+      rgba(56, 87, 141, 39%),
+      rgba(2, 30, 110, 39%)
+    ),
+    url(./media/sun.png);
+  height: 200px;
+  background-size: cover;
+}
+
+.div-some-2 {
+  background-image: linear-gradient(
+      rgba(9, 7, 226, 30%),
+      rgba(56, 87, 141, 39%),
+      rgba(2, 30, 110, 39%)
+    ),
+    url(./media/wind.png);
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.div-some-3 {
+  background-image: linear-gradient(
+      rgba(9, 7, 226, 30%),
+      rgba(56, 87, 141, 39%),
+      rgba(2, 30, 110, 39%)
+    ),
+    url(./media/wave.png);
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.div-some-4 {
+  background-image: linear-gradient(
+      rgba(9, 7, 226, 30%),
+      rgba(56, 87, 141, 39%),
+      rgba(2, 30, 110, 39%)
+    ),
+    url(./media/gas.png);
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.div-some-5 {
+  background-image: linear-gradient(
+      rgba(9, 7, 226, 30%),
+      rgba(56, 87, 141, 39%),
+      rgba(2, 30, 110, 39%)
+    ),
+    url(./media/oil.png);
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.div-some-6 {
+  background-image: linear-gradient(
+      rgba(9, 7, 226, 30%),
+      rgba(56, 87, 141, 39%),
+      rgba(2, 30, 110, 39%)
+    ),
+    url(./media/nuclear.png);
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.custom-stuff-card {
+  top: -80px;
+}
+
+.some-card-custom {
+  height: 100vh;
+}
+
+/* end custom some stuff */
+
+/* start sction download ipsum */
+
+.custom-download {
+  box-shadow: 0px 6px 7px rgb(181 181 181 / 74%);
+  height: 200px;
+}
+
+/* start custom footer */
+
+.custom-img-footer {
+  height: 80px;
+  width: 80px;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+footer {
+  height: 75vh;
+  background-color: black;
+}
+
+.custom-footer {
+  margin-top: 35vh;
+}
+
+.custom-h2-div {
+  margin-top: 50px;
+}
+
+.custom-lorem1 {
+  margin-top: 50px;
+}
+
+.custom-col-blue {
+  background-color: rgb(6, 57, 108);
+  height: 386px;
+  width: 460px;
+  top: -66px;
+  left: 150px;
+}
+/* start media queires */
+
+@media screen and (max-width: 1280px) {
+  .media-megalorem-custom {
+    margin-top: 110px;
+  }
+  header {
+    height: 500px;
+  }
+  .power-lorem-custom {
+    height: 400px;
+  }
+  .card-blue {
+    top: -37px;
+    left: 55px;
+    height: 600px;
+  }
+  .card-white {
+    height: 600px;
+    right: 50px;
+  }
+  .paragrafo-white-custom {
+    margin: 0;
+    padding: 0;
+  }
+  .pannelli-cust {
+    height: 70vh;
+  }
+  .div1 {
+    padding-bottom: 30px;
+  }
+
+  .div2 {
+    height: 105px;
+    left: 0px;
+    padding-top: 20px;
+    padding-left: 20px;
+  }
+  .media-p-citta {
+    font-size: 10px;
+  }
+  .media-h3-citta {
+    font-size: 18px;
+  }
+
+  .cust-stuff-card {
+    height: 70vh;
+  }
+  footer {
+    height: 40vh;
+  }
+  .custom-col-blue {
+    height: 430px;
+    width: 300px;
+    left: 40px;
+    top: -60px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .media-megalorem-custom {
+    margin-top: 0px;
+  }
+  header {
+    height: 300px;
+  }
+  .power-lorem-custom {
+    height: 300px;
+  }
+
+  .card-blue {
+    height: 80vh;
+    top: 0px;
+    left: 0px;
+  }
+
+  .card-white {
+    height: 80vh;
+    left: 0px;
+    top: 600px;
+  }
+  .pannelli-cust {
+    height: 165vh;
+  }
+  .media-p-citta {
+    font-size: 9px;
+  }
+
+  .media-h3-citta {
+    font-size: 16px;
+  }
+
+  .div1 {
+    padding-bottom: 30px;
+  }
+
+  .div2 {
+    padding-top: 30px;
+    padding-left: 15px;
+  }
+
+  .cust-stuff-card {
+    height: 250vh;
+  }
+  .custom-col-blue {
+    height: 400px;
+    width: 300px;
+    top: 90px;
+    left: 45px;
+  }
+  footer {
+    height: 130vh;
+  }
+}
+/* end media queries */
